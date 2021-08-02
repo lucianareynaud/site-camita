@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+}
+
+/*
+img {
+    background-color: blueviolet;
+}
+*/
+
+img:hover {
+    background-color: gold;
+}
+
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
